@@ -3,7 +3,7 @@ body {
   color: #40514E;
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
+  font-family: nunito,'Merriweather', serif;
    
   
 }
@@ -17,7 +17,7 @@ h1 {
 
 .pro,h2 {
   color: #66BFBF;
-  font-family: 'Montserrat', sans-serif;
+  font-family:nunito,'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 10px;
@@ -162,11 +162,4 @@ a:hover {
     height: 100px;
     width: auto;
     opacity: 50%;
-}
-@media(max-width:500px)
-{
-    .moun
-    {
-       width: 500px;
-    }
 }
